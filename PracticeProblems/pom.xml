@@ -7,6 +7,10 @@
     <groupId>com.christian</groupId>
     <artifactId>PracticeProblems</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>TestModule</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
